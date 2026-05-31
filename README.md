@@ -1,5 +1,5 @@
 # **UBER REAL-TIME DATA ENGINEERING PROJECT**
 
-
+This comprehensive **data engineering project** provides a complete end-to-end guide for building a modern **real-time streaming** solution using the **Azure ecosystem** and **Databricks**. The tutorial simulates an **Uber-like** ride-booking system, where events are generated through a **FastAPI** web application and ingested into **Azure Event Hubs** using the **Apache Kafka** protocol. It demonstrates how to handle both **real-time event streams** and **bulk historical data**, the latter of which is managed through **metadata-driven pipelines** in **Azure Data Factory**. Students learn to implement a **medallion architecture**, transitioning raw data from a **bronze layer** into a refined **star schema** within the **gold layer** using **Spark structured streaming**. A significant focus is placed on advanced industry techniques, such as **modular code** with **Jinja templates** and **declarative pipelines** for efficient data processing. Ultimately, the project aims to equip learners with a high-demand **tech stack** involving **PySpark**, **SQL**, and **cloud orchestration**.
 
 
